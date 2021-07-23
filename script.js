@@ -1,7 +1,7 @@
 
 // AirVisual API details 
 let APIKey = "ae2a2e35-cda7-4f9f-9899-8ce38080453e";
-let APIUrl = "http://api.airvisual.com/v2/";
+let APIUrl = "https://api.airvisual.com/v2/";
 
 /**
  * Function to populate the select state dropdown
